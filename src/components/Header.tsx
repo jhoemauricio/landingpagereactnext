@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '@/assets/logo.svg'
-import ItemMenu from '@/components/itemMenu'
+import ItemMenu from '@/components/ItemMenu'
 import Search from '@/components/Search'
 import IconUser from '@/assets/icon-user.svg'
 import {Container} from '@/components/Container'
